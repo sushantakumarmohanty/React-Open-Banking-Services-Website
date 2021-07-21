@@ -1,0 +1,22 @@
+.contact-div{
+    margin-top: 10px;
+}
+.form-grp-div{
+    margin: '10px';
+    background-color: cornsilk;
+}
+.footerBottom{
+    background-color: black;
+    height: 200px;
+   
+    margin-top: 5px;
+}
+.font-weight-text-color {
+    font-size: medium;
+    font-weight: 700;
+    color: burlywood;
+    font-family: 'ui-monospace';
+}
+.form-check-input {
+    margin-left: -4.25rem !important;
+}
